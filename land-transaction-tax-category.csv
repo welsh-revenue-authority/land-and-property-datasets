@@ -1,0 +1,5 @@
+reference,name,description,documentation-url,land-transaction-tax-band,start-date,end-date
+001,Main residention tax rate,When you buy a residential property (freehold or leasehold) the following rates will apply to the portion of the price you pay in each band.,https://gov.wales/land-transaction-tax-rates-and-bands,land-transaction-tax-band:001,2018-04-01,
+002,Higher residential tax rate,When you buy a residential property and you already own one or more residential properties you may need to pay the higher residential rates.,https://gov.wales/land-transaction-tax-rates-and-bands,land-transaction-tax-band:002,2018-04-01,
+003,Non-residential property tax rate,"These rates apply when you buy non-residential property (freehold or leasehold) such as shops, offices, agricultural land",https://gov.wales/land-transaction-tax-rates-and-bands,land-transaction-tax-band:003,2018-04-01,
+004,Non-residential property rent,"If you pay rent on the grant of a lease, the 0% tax band may not apply to the lease premium (see table above), this is called the ‘relevant rent’ rule.",https://gov.wales/land-transaction-tax-rates-and-bands,land-transaction-tax-band:004,2018-04-01,
