@@ -1,0 +1,8 @@
+reference,name,description,use-class-part,organisation,start-date,end-date
+a,,"businesses which primarily serve people",a,,01-01-1987,01-09-2020
+b,Industrial or Storage & Distribution,"business that serve people either as factories or storage",b,,01-01-1987,
+c,"Hotels, houses, HMOs, prisons, care homes","locations where people sleep",c,,01-01-1987,
+d,,"locations where people do not sleep",d,,01-01-1987,01-09-2020
+e,,"Shops, offices, cafes, restaurants, GPs, Light industrial, creches, gyms, etc",e,,01-09-2020,
+f1,,"schools, galleries, museums, libraries, halls or churches",f1,,01-09-2020,
+f2,,"local shops, local halls, outdoor sports, swimming pools",f2,,01-09-2020,
