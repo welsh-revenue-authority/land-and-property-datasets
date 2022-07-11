@@ -1,2 +1,2 @@
-reference,use-class,use-class-part,name,description,usage-types,start-date,end-date
-b2,b2,use-class-part:b,"General industrial","Use for the carrying on of an industrial process","Car Repairs;Catering premises & production;Factories;General Industrial;Industrial Process;MOT Centre",01-01-1987,
+reference,use-class,use-class-part,name_en,name_cy,description_en,description_cy,usage-types_en,usage-types_cy,start-date,end-date
+b2,b2,use-class-part:b,"General industrial",,"Use for the carrying on of an industrial process",,"Car Repairs;Catering premises & production;Factories;General Industrial;Industrial Process;MOT Centre",,01-01-1987,
