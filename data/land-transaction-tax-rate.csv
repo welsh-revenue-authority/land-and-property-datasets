@@ -1,4 +1,4 @@
-reference,description,lower-threshold,upper-threshold,rate,land-transaction-tax-category,statistical-geography,organisation,start-date,end-date
+reference,description,lower-threshold,upper-threshold,rate,land-transaction-tax-category,geography,organisation,start-date,end-date
 001,"The portion up to and including £180,000",0,180000,0,land-transaction-tax-category:001,W92000004,,2018-04-01,2020-07-26
 002,"The portion over £180,000 up to and including £250,000",18000.01,250000,3.5,land-transaction-tax-category:001,W92000004,,2018-04-01,
 003,"The portion over £250,000 up to and including £400,000",250000.01,400000,5,land-transaction-tax-category:001,W92000004,,2018-04-01,
