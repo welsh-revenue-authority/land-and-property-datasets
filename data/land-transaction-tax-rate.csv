@@ -1,36 +1,36 @@
-reference,description_en,description_cy,lower-threshold,upper-threshold,rate,land-transaction-tax-category,geography,organisation,start-date,end-date
-001,"The portion up to and including £180,000","Y gyfran hyd at a chan gynnwys £180,000",0,180000,0,land-transaction-tax-category:001,W92000004,,2018-04-01,2020-07-26
-002,"The portion over £180,000 up to and including £250,000","Y gyfran dros £180,000 hyd at a chan gynnwys £250,000",18000.01,250000,3.5,land-transaction-tax-category:001,W92000004,,2018-04-01,
-003,"The portion over £250,000 up to and including £400,000","Y gyfran dros £250,000 hyd at a chan gynnwys £400,000",250000.01,400000,5,land-transaction-tax-category:001,W92000004,,2018-04-01,
-004,"The portion over £400,000 up to and including £750,000","Y gyfran dros £400,000 hyd at a chan gynnwys £750,000",400000.01,750000,7.5,land-transaction-tax-category:001,W92000004,,2018-04-01,
-005,"The portion over £750,000 up to and including £1,500,000","Y gyfran dros £750,000 hyd at a chan gynnwys £1,500,000",750000.01,1500000,10,land-transaction-tax-category:001,W92000004,,2018-04-01,
-006,"The portion over £1,500,000","Y gyfran dros £1,500,000",1500000.01,,12,land-transaction-tax-category:001,W92000004,,2018-04-01,2020-07-26
-007,"The portion up to and including £250,000","Y gyfran hyd at a chan gynnwys £250,000",0,250000,0,land-transaction-tax-category:001,W92000004,,2020-07-27,2021-06-30
-008,"The portion up to and including £180,000","Y gyfran hyd at a chan gynnwys £180,000",0,180000,0,land-transaction-tax-category:001,W92000004,,2021-07-01,
-009,"The portion over £180,000 up to and including £250,000","Y gyfran dros £180,000 hyd at a chan gynnwys £250,000",18000.01,250000,3.5,land-transaction-tax-category:001,W92000004,,2021-07-01,
-010,"The portion up to and including £180,000","Y gyfran hyd at a chan gynnwys £180,000",0,180000,3,land-transaction-tax-category:002,W92000004,,2018-04-01,2020-12-21
-011,"The portion over £180,000 up to and including £250,000","Y gyfran dros £180,000 hyd at a chan gynnwys £250,000",180000.01,250000,6.5,land-transaction-tax-category:002,W92000004,,2018-04-01,2020-12-21
-012,"The portion over £250,000 up to and including £400,000","Y gyfran dros £250,000 hyd at a chan gynnwys £400,000",250000.01,400000,8,land-transaction-tax-category:002,W92000004,,2018-04-01,2020-12-21
-013,"The portion over £400,000 up to and including £750,000","Y gyfran dros £400,000 hyd at a chan gynnwys £750,000",400000.01,750000,10.5,land-transaction-tax-category:002,W92000004,,2018-04-01,2020-12-21
-014,"The portion over £750,000 up to and including £1,500,000","Y gyfran dros £750,000 hyd at a chan gynnwys £1,500,000",750000.01,1500000,13,land-transaction-tax-category:002,W92000004,,2018-04-01,2020-12-21
-015,"The portion over £1,500,000","Y gyfran dros £1,500,000",1500000.01,,15,land-transaction-tax-category:002,W92000004,,2018-04-01,2020-12-21
-016,"The portion up to and including £180,000","Y gyfran hyd at ac yn cynnwys £180,000",0,180000,4,land-transaction-tax-category:002,W92000004,,2020-12-22,
-017,"The portion over £180,000 up to and including £250,000","Y gyfran dros £180,000 hyd at ac yn cynnwys £250,000",180000.01,250000,7.5,land-transaction-tax-category:002,W92000004,,2020-12-22,
-018,"The portion over £250,000 up to and including £400,000","Y gyfran dros £250,000 hyd at ac yn cynnwys £400,000",250000.01,400000,9,land-transaction-tax-category:002,W92000004,,2020-12-22,
-019,"The portion over £400,000 up to and including £750,000","Y gyfran dros £400,000 hyd at ac yn cynnwys £750,000",400000.01,750000,11.5,land-transaction-tax-category:002,W92000004,,2020-12-22,
-020,"The portion over £750,000 up to and including £1,500,000","Y gyfran dros £750,000 hyd at ac yn cynnwys £1,500,000",750000.01,1500000,14,land-transaction-tax-category:002,W92000004,,2020-12-22,
-021,"The portion over £1,500,000","Y gyfran dros £1,500,000",1500000.01,,16,land-transaction-tax-category:002,W92000004,,2020-12-22,
-022,"The portion up to and including £150,000","Y gyfran hyd at a chan gynnwys £150,000",0,150000,0,land-transaction-tax-category:003,W92000004,,2018-04-01,2020-12-21
-023,"The portion over £150,000 up to and including £250,000","Y gyfran dros £150,000 hyd at a chan gynnwys £250,000",150000.01,250000,1,land-transaction-tax-category:003,W92000004,,2018-04-01,2020-12-21
-024,"The portion over £250,000 up to and including £1,000,000","Y gyfran dros £250,000 hyd at a chan gynnwys £1,000,000",250000.01,1000000,5,land-transaction-tax-category:003,W92000004,,2018-04-01,2020-12-21
-025,"The portion over £1,000,000","Y gyfran dros £1,000,000",1000000.01,,6,land-transaction-tax-category:003,W92000004,,2018-04-01,2020-12-21
-026,"The portion up to and including £225,000","Y gyfran hyd at ac yn cynnwys £225,000",0,225000,0,land-transaction-tax-category:003,W92000004,,2020-12-22,
-027,"The portion over £225,000 up to and including £250,000","Y gyfran dros £225,000 hyd at ac yn cynnwys £250,000",225000.01,250000,1,land-transaction-tax-category:003,W92000004,,2020-12-22,
-028,"The portion over £250,000 up to and including £1,000,000","Y gyfran dros £250,000 hyd at ac yn cynnwys £1,000,000",250000.01,1000000,5,land-transaction-tax-category:003,W92000004,,2020-12-22,
-029,"The portion over £1,000,000","Y gyfran dros £1,000,000",1000000.01,,6,land-transaction-tax-category:003,W92000004,,2020-12-22,
-030,"The portion up to and including £150,000","Y gyfran hyd at a chan gynnwys £150,000",0,150000,0,land-transaction-tax-category:004,W92000004,,2018-04-01,2020-12-21
-031,"The portion over £150,000 up to and including £2,000,000","Y gyfran dros £150,000 hyd at a chan gynnwys £2,000,000",150000.01,2000000,1,land-transaction-tax-category:004,W92000004,,2018-04-01,2020-12-21
-032,"The portion over £2,000,000","Y gyfran dros £2,000,000",2000000.01,,2,land-transaction-tax-category:004,W92000004,,2018-04-01,2020-12-21
-033,"The portion up to and including £225,000","Y gyfran hyd at ac yn cynnwys £225,000",0,225000,0,land-transaction-tax-category:004,W92000004,,2020-12-22,
-034,"The portion over £225,000 up to and including £2,000,000","Y gyfran dros £225,000 hyd at ac yn cynnwys £2,000,000",22500.00,2000000,1,land-transaction-tax-category:004,W92000004,,2020-12-22,
-035,"The portion over £2,000,000","Y gyfran dros £2,000,000",2000000.01,,2,land-transaction-tax-category:004,W92000004,,2020-12-22,
+row-id,reference,land-transaction-tax-rate,description_en,description_cy,lower-threshold,upper-threshold,rate,land-transaction-tax-category,geography,organisation,start-date,end-date
+1,1,land-transaction-tax-rate:1,"The portion up to and including £180,000","Y gyfran hyd at a chan gynnwys £180,000",0,180000,0,land-transaction-tax-category:001,W92000004,,2018-04-01,2020-07-26
+2,2,land-transaction-tax-rate:2,"The portion over £180,000 up to and including £250,000","Y gyfran dros £180,000 hyd at a chan gynnwys £250,000",18000.01,250000,3.5,land-transaction-tax-category:001,W92000004,,2018-04-01,
+3,3,land-transaction-tax-rate:3,"The portion over £250,000 up to and including £400,000","Y gyfran dros £250,000 hyd at a chan gynnwys £400,000",250000.01,400000,5,land-transaction-tax-category:001,W92000004,,2018-04-01,
+4,4,land-transaction-tax-rate:4,"The portion over £400,000 up to and including £750,000","Y gyfran dros £400,000 hyd at a chan gynnwys £750,000",400000.01,750000,7.5,land-transaction-tax-category:001,W92000004,,2018-04-01,
+5,5,land-transaction-tax-rate:5,"The portion over £750,000 up to and including £1,500,000","Y gyfran dros £750,000 hyd at a chan gynnwys £1,500,000",750000.01,1500000,10,land-transaction-tax-category:001,W92000004,,2018-04-01,
+6,6,land-transaction-tax-rate:6,"The portion over £1,500,000","Y gyfran dros £1,500,000",1500000.01,,12,land-transaction-tax-category:001,W92000004,,2018-04-01,2020-07-26
+7,7,land-transaction-tax-rate:7,"The portion up to and including £250,000","Y gyfran hyd at a chan gynnwys £250,000",0,250000,0,land-transaction-tax-category:001,W92000004,,2020-07-27,2021-06-30
+8,1,land-transaction-tax-rate:1,"The portion up to and including £180,000","Y gyfran hyd at a chan gynnwys £180,000",0,180000,0,land-transaction-tax-category:001,W92000004,,2021-07-01,
+9,2,land-transaction-tax-rate:2,"The portion over £180,000 up to and including £250,000","Y gyfran dros £180,000 hyd at a chan gynnwys £250,000",18000.01,250000,3.5,land-transaction-tax-category:001,W92000004,,2021-07-01,
+10,8,land-transaction-tax-rate:8,"The portion up to and including £180,000","Y gyfran hyd at a chan gynnwys £180,000",0,180000,3,land-transaction-tax-category:002,W92000004,,2018-04-01,2020-12-21
+11,9,land-transaction-tax-rate:9,"The portion over £180,000 up to and including £250,000","Y gyfran dros £180,000 hyd at a chan gynnwys £250,000",180000.01,250000,6.5,land-transaction-tax-category:002,W92000004,,2018-04-01,2020-12-21
+12,10,land-transaction-tax-rate:10,"The portion over £250,000 up to and including £400,000","Y gyfran dros £250,000 hyd at a chan gynnwys £400,000",250000.01,400000,8,land-transaction-tax-category:002,W92000004,,2018-04-01,2020-12-21
+13,11,land-transaction-tax-rate:11,"The portion over £400,000 up to and including £750,000","Y gyfran dros £400,000 hyd at a chan gynnwys £750,000",400000.01,750000,10.5,land-transaction-tax-category:002,W92000004,,2018-04-01,2020-12-21
+14,12,land-transaction-tax-rate:12,"The portion over £750,000 up to and including £1,500,000","Y gyfran dros £750,000 hyd at a chan gynnwys £1,500,000",750000.01,1500000,13,land-transaction-tax-category:002,W92000004,,2018-04-01,2020-12-21
+15,13,land-transaction-tax-rate:13,"The portion over £1,500,000","Y gyfran dros £1,500,000",1500000.01,,15,land-transaction-tax-category:002,W92000004,,2018-04-01,2020-12-21
+16,8,land-transaction-tax-rate:8,"The portion up to and including £180,000","Y gyfran hyd at ac yn cynnwys £180,000",0,180000,4,land-transaction-tax-category:002,W92000004,,2020-12-22,
+17,9,land-transaction-tax-rate:9,"The portion over £180,000 up to and including £250,000","Y gyfran dros £180,000 hyd at ac yn cynnwys £250,000",180000.01,250000,7.5,land-transaction-tax-category:002,W92000004,,2020-12-22,
+18,10,land-transaction-tax-rate:10,"The portion over £250,000 up to and including £400,000","Y gyfran dros £250,000 hyd at ac yn cynnwys £400,000",250000.01,400000,9,land-transaction-tax-category:002,W92000004,,2020-12-22,
+19,11,land-transaction-tax-rate:11,"The portion over £400,000 up to and including £750,000","Y gyfran dros £400,000 hyd at ac yn cynnwys £750,000",400000.01,750000,11.5,land-transaction-tax-category:002,W92000004,,2020-12-22,
+20,12,land-transaction-tax-rate:12,"The portion over £750,000 up to and including £1,500,000","Y gyfran dros £750,000 hyd at ac yn cynnwys £1,500,000",750000.01,1500000,14,land-transaction-tax-category:002,W92000004,,2020-12-22,
+21,13,land-transaction-tax-rate:13,"The portion over £1,500,000","Y gyfran dros £1,500,000",1500000.01,,16,land-transaction-tax-category:002,W92000004,,2020-12-22,
+22,14,land-transaction-tax-rate:14,"The portion up to and including £150,000","Y gyfran hyd at a chan gynnwys £150,000",0,150000,0,land-transaction-tax-category:003,W92000004,,2018-04-01,2020-12-21
+23,15,land-transaction-tax-rate:15,"The portion over £150,000 up to and including £250,000","Y gyfran dros £150,000 hyd at a chan gynnwys £250,000",150000.01,250000,1,land-transaction-tax-category:003,W92000004,,2018-04-01,2020-12-21
+24,16,land-transaction-tax-rate:16,"The portion over £250,000 up to and including £1,000,000","Y gyfran dros £250,000 hyd at a chan gynnwys £1,000,000",250000.01,1000000,5,land-transaction-tax-category:003,W92000004,,2018-04-01,2020-12-21
+25,17,land-transaction-tax-rate:17,"The portion over £1,000,000","Y gyfran dros £1,000,000",1000000.01,,6,land-transaction-tax-category:003,W92000004,,2018-04-01,2020-12-21
+26,18,land-transaction-tax-rate:18,"The portion up to and including £225,000","Y gyfran hyd at ac yn cynnwys £225,000",0,225000,0,land-transaction-tax-category:003,W92000004,,2020-12-22,
+27,19,land-transaction-tax-rate:19,"The portion over £225,000 up to and including £250,000","Y gyfran dros £225,000 hyd at ac yn cynnwys £250,000",225000.01,250000,1,land-transaction-tax-category:003,W92000004,,2020-12-22,
+28,16,land-transaction-tax-rate:16,"The portion over £250,000 up to and including £1,000,000","Y gyfran dros £250,000 hyd at ac yn cynnwys £1,000,000",250000.01,1000000,5,land-transaction-tax-category:003,W92000004,,2020-12-22,
+29,17,land-transaction-tax-rate:17,"The portion over £1,000,000","Y gyfran dros £1,000,000",1000000.01,,6,land-transaction-tax-category:003,W92000004,,2020-12-22,
+30,20,land-transaction-tax-rate:20,"The portion up to and including £150,000","Y gyfran hyd at a chan gynnwys £150,000",0,150000,0,land-transaction-tax-category:004,W92000004,,2018-04-01,2020-12-21
+31,21,land-transaction-tax-rate:21,"The portion over £150,000 up to and including £2,000,000","Y gyfran dros £150,000 hyd at a chan gynnwys £2,000,000",150000.01,2000000,1,land-transaction-tax-category:004,W92000004,,2018-04-01,2020-12-21
+32,22,land-transaction-tax-rate:22,"The portion over £2,000,000","Y gyfran dros £2,000,000",2000000.01,,2,land-transaction-tax-category:004,W92000004,,2018-04-01,2020-12-21
+33,23,land-transaction-tax-rate:23,"The portion up to and including £225,000","Y gyfran hyd at ac yn cynnwys £225,000",0,225000,0,land-transaction-tax-category:004,W92000004,,2020-12-22,
+34,24,land-transaction-tax-rate:24,"The portion over £225,000 up to and including £2,000,000","Y gyfran dros £225,000 hyd at ac yn cynnwys £2,000,000",22500.00,2000000,1,land-transaction-tax-category:004,W92000004,,2020-12-22,
+35,22,land-transaction-tax-rate:22,"The portion over £2,000,000","Y gyfran dros £2,000,000",2000000.01,,2,land-transaction-tax-category:004,W92000004,,2020-12-22,
