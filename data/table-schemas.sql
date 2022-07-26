@@ -100,14 +100,12 @@ CREATE TABLE IF NOT EXISTS public."use_class_part"
 (
     id SERIAL PRIMARY KEY,
     "reference" character varying COLLATE pg_catalog."default",
-	use_class character varying COLLATE pg_catalog."default",
-	use_class_part character varying COLLATE pg_catalog."default",
     name_en character varying COLLATE pg_catalog."default",
 	name_cy character varying COLLATE pg_catalog."default",
     description_en character varying COLLATE pg_catalog."default",
     description_cy character varying COLLATE pg_catalog."default",
-	usage_types_en character varying COLLATE pg_catalog."default",
-    usage_types_cy character varying COLLATE pg_catalog."default",
+	use_class_part character varying COLLATE pg_catalog."default",
+    "organisation" character varying COLLATE pg_catalog."default",
     "start_date" date,
     "end_date" date
 );
@@ -129,4 +127,20 @@ CREATE TABLE IF NOT EXISTS public."use_class"
     "usage_types_cy" character varying COLLATE pg_catalog."default",
     "start_date" date,
     "end_date" date
+);
+
+-- Table: public.lr_transactions
+DROP TABLE IF EXISTS public.lr_transactions;
+
+CREATE TABLE IF NOT EXISTS public.lr_transactions
+(
+    id SERIAL PRIMARY KEY,
+    paon character varying COLLATE pg_catalog."default",
+    street character varying COLLATE pg_catalog."default",
+	town character varying COLLATE pg_catalog."default",
+    county character varying COLLATE pg_catalog."default",
+    postcode character varying COLLATE pg_catalog."default",
+	amount INTEGER,
+    transaction_date date,
+    category character varying COLLATE pg_catalog."default"
 );
