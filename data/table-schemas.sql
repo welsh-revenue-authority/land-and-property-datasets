@@ -135,12 +135,20 @@ DROP TABLE IF EXISTS public.lr_transactions;
 CREATE TABLE IF NOT EXISTS public.lr_transactions
 (
     id SERIAL PRIMARY KEY,
+	transaction_id character varying COLLATE pg_catalog."default",
+	lr_property_address_id character varying COLLATE pg_catalog."default",
     paon character varying COLLATE pg_catalog."default",
+	saon character varying COLLATE pg_catalog."default",
     street character varying COLLATE pg_catalog."default",
 	town character varying COLLATE pg_catalog."default",
     county character varying COLLATE pg_catalog."default",
     postcode character varying COLLATE pg_catalog."default",
 	amount INTEGER,
     transaction_date date,
-    category character varying COLLATE pg_catalog."default"
+    category character varying COLLATE pg_catalog."default",
+	postcode_area character varying COLLATE pg_catalog."default",
+	property_type character varying COLLATE pg_catalog."default",
+	record_status character varying COLLATE pg_catalog."default",
+	estate_type character varying COLLATE pg_catalog."default",
+	new_build character varying COLLATE pg_catalog."default"
 );
