@@ -152,3 +152,18 @@ CREATE TABLE IF NOT EXISTS public.lr_transactions
 	estate_type character varying COLLATE pg_catalog."default",
 	new_build character varying COLLATE pg_catalog."default"
 );
+CREATE UNIQUE INDEX idx_transaction_id ON lr_transactions(transaction_id);
+
+-- Table: public.lr_transactions
+DROP TABLE IF EXISTS public.collection_log;
+
+CREATE TABLE IF NOT EXISTS public.collection_log
+(
+    id SERIAL PRIMARY KEY,
+	data_set character varying COLLATE pg_catalog."default",
+	start_date date,
+    end_date date,
+	query_filter_value character varying COLLATE pg_catalog."default",
+    results_count INTEGER,
+    transaction_date date
+);
