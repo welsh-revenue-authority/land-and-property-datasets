@@ -154,7 +154,7 @@ CREATE TABLE IF NOT EXISTS public.lr_transactions
 );
 CREATE UNIQUE INDEX idx_transaction_id ON lr_transactions(transaction_id);
 
--- Table: public.lr_transactions
+-- Table: public.collection_log
 DROP TABLE IF EXISTS public.collection_log;
 
 CREATE TABLE IF NOT EXISTS public.collection_log
@@ -167,3 +167,68 @@ CREATE TABLE IF NOT EXISTS public.collection_log
     results_count INTEGER,
     transaction_date date
 );
+
+-- Table: public.ONSPD_MAY_2022_UK
+
+-- DROP TABLE IF EXISTS public."ONSPD_MAY_2022_UK";
+
+CREATE TABLE IF NOT EXISTS public."ONSPD_MAY_2022_UK"
+(
+    id integer SERIAL PRIMARY KEY,
+    geom geometry(Point,4326),
+    pcd character varying COLLATE pg_catalog."default",
+    pcd2 character varying COLLATE pg_catalog."default",
+    pcds character varying COLLATE pg_catalog."default",
+    dointr integer,
+    doterm integer,
+    oscty character varying COLLATE pg_catalog."default",
+    ced character varying COLLATE pg_catalog."default",
+    oslaua character varying COLLATE pg_catalog."default",
+    osward character varying COLLATE pg_catalog."default",
+    parish character varying COLLATE pg_catalog."default",
+    usertype boolean,
+    oseast1m integer,
+    osnrth1m integer,
+    osgrdind integer,
+    oshlthau character varying COLLATE pg_catalog."default",
+    nhser character varying COLLATE pg_catalog."default",
+    ctry character varying COLLATE pg_catalog."default",
+    rgn character varying COLLATE pg_catalog."default",
+    streg character varying COLLATE pg_catalog."default",
+    pcon character varying COLLATE pg_catalog."default",
+    eer character varying COLLATE pg_catalog."default",
+    teclec character varying COLLATE pg_catalog."default",
+    ttwa character varying COLLATE pg_catalog."default",
+    pct character varying COLLATE pg_catalog."default",
+    itl character varying COLLATE pg_catalog."default",
+    statsward character varying COLLATE pg_catalog."default",
+    oa01 character varying COLLATE pg_catalog."default",
+    casward character varying COLLATE pg_catalog."default",
+    park character varying COLLATE pg_catalog."default",
+    lsoa01 character varying COLLATE pg_catalog."default",
+    msoa01 character varying COLLATE pg_catalog."default",
+    ur01ind character varying COLLATE pg_catalog."default",
+    oac01 character varying COLLATE pg_catalog."default",
+    oa11 character varying COLLATE pg_catalog."default",
+    lsoa11 character varying COLLATE pg_catalog."default",
+    msoa11 character varying COLLATE pg_catalog."default",
+    wz11 character varying COLLATE pg_catalog."default",
+    ccg character varying COLLATE pg_catalog."default",
+    bua11 character varying COLLATE pg_catalog."default",
+    buasd11 character varying COLLATE pg_catalog."default",
+    ru11ind character varying COLLATE pg_catalog."default",
+    oac11 character varying COLLATE pg_catalog."default",
+    lat double precision,
+    "long" double precision,
+    lep1 character varying COLLATE pg_catalog."default",
+    lep2 character varying COLLATE pg_catalog."default",
+    pfa character varying COLLATE pg_catalog."default",
+    imd integer,
+    calncv character varying COLLATE pg_catalog."default",
+    stp character varying COLLATE pg_catalog."default"
+)
+
+--UPDATE public.wales_postcode_points_ons_may2022 SET pcd2_clean=TRIM(REPLACE(pcd2,' ',''));
+--UPDATE public.lr_transactions SET postcode_clean=TRIM(REPLACE(postcode,' ',''))
+
+)
